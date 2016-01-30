@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+=begin
+${1:block comment}
+=end
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rbcomm-block</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ruby</scope>
+	<description>ruby comment-block</description>
+</snippet>
+

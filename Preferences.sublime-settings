@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/ArtSchool (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".hg",
+		"CVS"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"tab_size": 2,
+	"wrap_width": 100
+}
